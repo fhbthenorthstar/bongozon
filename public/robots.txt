@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://beautyworldassociation.com/
+
+# Sitemaps
+Sitemap: https://beautyworldassociation.com/sitemap.xml
